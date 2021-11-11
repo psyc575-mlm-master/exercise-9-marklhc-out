@@ -1,6 +1,6 @@
 ---
 title: "Exercise: Model Averaging and GitHub"
-author: "Your Name"
+author: "Mark Lai"
 date: "11/04/2021"
 output:
   github_document:
